@@ -18,7 +18,7 @@ Feel free to work on all of these exercises over winter break. You know everythi
 8. [Codecademy JavaScript course (10hrs)](http://www.codecademy.com/en/tracks/javascript)
 9. [Discover Devtools!](https://www.codeschool.com/courses/discover-devtools)
 
-*Important:* You need to sign up for *free* accounts with [Codecademy](http://codecademy.com) and [Dash](http://dash.generalassemb.ly) to do these exercises!
+**Important:** You need to sign up for **free** accounts with [Codecademy](http://codecademy.com) and [Dash](http://dash.generalassemb.ly) to do these exercises!
 
 
 ### Coding tools
@@ -35,4 +35,4 @@ Feel free to work on all of these exercises over winter break. You know everythi
 
 ### Email us!
 
-Email your teachers at this address if you have *ANY* questions about *ANYTHING*: [scripted-claremont-fall-2014@googlegroups.com](mailto:scripted-claremont-fall-2014@googlegroups.com)
+Email your teachers at this address if you have **ANY** questions about **ANYTHING**: [scripted-claremont-fall-2014@googlegroups.com](mailto:scripted-claremont-fall-2014@googlegroups.com)
