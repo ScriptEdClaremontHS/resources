@@ -1,4 +1,4 @@
-Resources for ScriptEd Claremont
+ScriptEd Claremont
 =========
 
 Here are a list of extra resources for our awesome students! **YAY CODE!!!**
