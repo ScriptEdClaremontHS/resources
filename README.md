@@ -1,7 +1,9 @@
 Resources for ScriptEd Claremont
 =========
 
-Here are a list of extra resources for our awesome students!
+Here are a list of extra resources for our awesome students! **YAY CODE!!!**
+
+![code is awesome](http://i.giphy.com/fm4WhPMzu9hRK.gif)
 
 ### Take home exercises
 
@@ -36,3 +38,4 @@ Feel free to work on all of these exercises over winter break. You know everythi
 ### Email us!
 
 Email your teachers at this address if you have **ANY** questions about **ANYTHING**: [scripted-claremont-fall-2014@googlegroups.com](mailto:scripted-claremont-fall-2014@googlegroups.com)
+
